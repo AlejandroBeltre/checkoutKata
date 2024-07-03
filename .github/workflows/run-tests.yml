@@ -12,5 +12,5 @@ jobs:
       with:
         python-version: '3.x'
     - name: Run tests
-      run: python -m unittest Scripts/test.py
+      run: python -m unittest .venv/Scripts/test.py
       shell: cmd
