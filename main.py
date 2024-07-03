@@ -8,7 +8,7 @@ class Checkout:
         for item, quantity in self.items.items():
             unitPrice = self.rules.get(item)[0]
             total += quantity * unitPrice
-        return total
+        return total - 1
 
 
     def scan(self, item):
