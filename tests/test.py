@@ -1,5 +1,5 @@
 import unittest
-from checkout.checkout import Checkout, Product, Rules
+from kataCheckout.kataCheckout import Checkout, Product, Rules
 
 class MyTestCase(unittest.TestCase):
     def setUp(self):
@@ -16,7 +16,7 @@ class MyTestCase(unittest.TestCase):
              'C': Rules(self.C),
              'D': Rules(self.D)
         }
-        # Initalize the checkout
+        # Initalize the kataCheckout
         self.checkout = Checkout(self.rules)
 
     def test_scan_single_item(self):
