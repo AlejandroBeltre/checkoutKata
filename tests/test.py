@@ -53,8 +53,7 @@ class MyTestCase(unittest.TestCase):
         self.assertEqual(self.checkout.total(), 0)
 
     def test_item_not_in_rules_lists(self):
-        self.checkout.scan(self.F)
-        self.assertEqual(self.checkout.total(), "Item not in list")
+        self.assertEqual(self.checkout.scan(self.F), "Item not in list")
 
 if __name__ == '__main__':
     unittest.main()
