@@ -4,7 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="227924b8-8817-4fe9-9162-0d368b8c28df" name="Changes" comment="added encapsulation and automation of update" />
+    <list default="true" id="227924b8-8817-4fe9-9162-0d368b8c28df" name="Changes" comment="added encapsulation and automation of update">
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_7_9_2024_12_54_AM_[Changes]/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_7_9_2024_12_54_AM__Changes_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_7_9_2024_7_50_PM_[Changes]/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_7_9_2024_7_50_PM__Changes_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/lib/kataCheckout/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/lib/kataCheckout/kataCheckout.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/kataCheckout-0.0.1-py3-none-any.whl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/kataCheckout-0.1.0-py3-none-any.whl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/kataCheckout-1.0.0-py3-none-any.whl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/katacheckout-0.0.1.tar.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/katacheckout-0.1.0.tar.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/katacheckout-1.0.0.tar.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kataCheckout.egg-info/PKG-INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kataCheckout.egg-info/SOURCES.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kataCheckout.egg-info/dependency_links.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kataCheckout.egg-info/top_level.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/publish-to-pypi.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/publish-to-pypi.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/checkoutKara.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,7 +96,8 @@
       <workItem from="1720043996267" duration="3097000" />
       <workItem from="1720489795434" duration="7260000" />
       <workItem from="1720498433284" duration="2273000" />
-      <workItem from="1720563039028" duration="2957000" />
+      <workItem from="1720563039028" duration="3742000" />
+      <workItem from="1720583903074" duration="41000" />
     </task>
     <task id="LOCAL-00001" summary="finished checkout with ddd and its testings">
       <option name="closed" value="true" />
