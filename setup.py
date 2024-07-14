@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-VERSION = '2.0.1'
+VERSION = '2.0.2'
 DESCRIPTION = 'Python package for kataCheckout'
 LONG_DESCRIPTION = 'This is a python package for the kata 09: back to the checkout, which is a kata from codewars.com'
 
