@@ -11,7 +11,7 @@ Token for pkg: pypi-AgEIcHlwaS5vcmcCJDg0ZTg2MTU3LTVkMWYtNGQ3OS1hY2ZlLTI1MzNhNjQz
 
 ``` 
 pip install kataCheckout
-``` 
+```  
 
 # Uso del paquete
 
